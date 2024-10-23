@@ -5,7 +5,7 @@ This project aims to analyze sales data from Netflix to uncover patterns and ins
 # Dataset Information
 Dataset Name: Netflix Sales Data Source: (Mention where the data was collected from, if publicly available, or if it's simulated data.) Features: Date: Date of the sale/transaction. User ID: Unique identifier for Netflix users. Title: Name of the movie or TV show. Category: Type of content (e.g., Movie, TV Show). Revenue: Amount of revenue generated from a sale. Country: The country where the sale originated. Subscription Type: Subscription plan (e.g., Basic, Standard, Premium).
 
-Project Structure
+# Project Structure
 The project is organized as follows:
 
 bash Copy code Netflix-Data-Sales-Analysis/ │ ├── data/ │ ├── netflix_sales.csv # Dataset file │ ├── notebooks/ │ ├── netflix_data_analysis.ipynb # Jupyter Notebook for analysis │ ├── reports/ │ ├── netflix_sales_report.pdf # PDF report of findings │ ├── src/ │ ├── data_cleaning.py # Python script for data cleaning │ ├── data_visualization.py # Python script for generating plots │ ├── feature_engineering.py # Python script for feature engineering │ └── README.md # This README file
